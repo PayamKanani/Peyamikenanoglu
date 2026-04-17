@@ -11,10 +11,10 @@ I build practical AI and machine learning projects with a focus on end-to-end sy
 - Applied AI Products
 
 ## Featured Projects
-- KKBox Churn Prediction
-- Store Sales Forecasting
-- Document AI Analyzer
 - TMDB Box Office ML Portfolio
+- KKBox Churn Prediction (in progress)
+- Store Sales Forecasting (planned)
+- Document AI Analyzer (planned)
 
 ## Tech Stack
 Python, pandas, scikit-learn, SQL, FastAPI, Docker, Git, GitHub
