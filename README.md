@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Peyami
 
-<!--
-**PayamKanani/PayamKanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical AI and machine learning projects with a focus on end-to-end systems, applied modeling, and deployment.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Machine Learning
+- Data Science
+- FastAPI
+- Docker
+- SQL
+- Applied AI Products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- KKBox Churn Prediction
+- Store Sales Forecasting
+- Document AI Analyzer
+- TMDB Box Office ML Portfolio
+
+## Tech Stack
+Python, pandas, scikit-learn, SQL, FastAPI, Docker, Git, GitHub
+
+## Current Goal
+Building portfolio-grade AI projects for high-value data and AI roles.
+
+## Contact
+- ORCID: https://orcid.org/0000-0003-1951-9534
+- LinkedIn: https://www.linkedin.com/in/peyami-kenanoglu
