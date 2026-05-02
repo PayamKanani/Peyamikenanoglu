@@ -25,7 +25,7 @@ My current focus is on building a strong AI/Data Science portfolio through end-t
 - Applied machine learning pipelines
 - Deployment-oriented ML systems
 
-I also have an academic background in Project and Construction Management, with PhD-level research on machine learning applications for risk assessment.
+I also have an academic background in Project and Construction Management, with PhD-level research on machine learning applications for construction risk assessment.
 
 ---
 
