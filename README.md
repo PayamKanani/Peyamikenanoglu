@@ -32,29 +32,33 @@ I also have an academic background in Project and Construction Management, with 
 ## Featured Projects
 
 ### IEEE-CIS Fraud Detection
+
 Time-aware fraud detection pipeline using advanced feature engineering, UID-style features, LightGBM, XGBoost, CatBoost, and ensemble learning.
 
 **Tech:** Python, pandas, scikit-learn, XGBoost, LightGBM, CatBoost  
 **Focus:** Fraud detection, feature engineering, leakage-safe validation, imbalanced classification  
-**Repository:** [ieee-fraud-detection](https://github.com/peyamikenanoglu/ieee-fraud-detection)
+**Result:** ROC-AUC = 0.9292  
+**Repository:** [peyamikenanoglu/ieee-fraud-detection](https://github.com/peyamikenanoglu/ieee-fraud-detection)
 
 ---
 
 ### KKBox Churn Prediction
-End-to-end customer churn prediction project using the WSDM KKBox dataset, with time-aware validation and production-style project structure.
+
+End-to-end customer churn prediction project using the WSDM KKBox dataset, with realistic time-aware validation instead of an overly optimistic random split.
 
 **Tech:** Python, pandas, scikit-learn, XGBoost  
 **Focus:** Churn prediction, temporal validation, customer behavior modeling  
-**Repository:** [kkbox-churn-prediction](https://github.com/peyamikenanoglu/kkbox-churn-prediction)
+**Repository:** [peyamikenanoglu/kkbox-churn-prediction](https://github.com/peyamikenanoglu/kkbox-churn-prediction)
 
 ---
 
-### TMDB Box Office Prediction
+### TMDB Box Office Prediction & Movie Recommender
+
 Machine learning project for box office revenue prediction and movie recommendation using structured movie metadata.
 
 **Tech:** Python, pandas, scikit-learn, gradient boosting models  
 **Focus:** Regression, recommender systems, feature engineering, model evaluation  
-**Repository:** [tmdb-box-office-ml-portfolio](https://github.com/peyamikenanoglu/tmdb-box-office-ml-portfolio)
+**Repository:** [peyamikenanoglu/tmdb-box-office-ml-portfolio](https://github.com/peyamikenanoglu/tmdb-box-office-ml-portfolio)
 
 ---
 
